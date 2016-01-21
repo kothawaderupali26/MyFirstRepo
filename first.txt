@@ -1,5 +1,6 @@
 public class Family {
               int Sagar;
               int Mother;
+              int Child;
               int Rupali;
 }
